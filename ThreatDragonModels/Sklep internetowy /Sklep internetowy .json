@@ -547,7 +547,7 @@
             "connector": "smooth",
             "data": {
               "type": "tm.Flow",
-              "name": "logowanie",
+              "name": "logowanie 1",
               "description": "",
               "outOfScope": false,
               "isTrustBoundary": false,
@@ -561,7 +561,7 @@
               "trustBoundaryIds": []
             },
             "labels": [
-              "logowanie"
+              "logowanie 1"
             ],
             "id": "8a348414-4cac-4962-94ca-b09802386775",
             "source": {
@@ -574,7 +574,7 @@
             },
             "vertices": [
               {
-                "x": 540,
+                "x": 520,
                 "y": 120
               }
             ]
@@ -623,7 +623,8 @@
             "target": {
               "cell": "32272847-bb19-4d44-8497-228ae01e7d4b",
               "port": "8975fba2-ec0e-4956-85b5-8e5053231534"
-            }
+            },
+            "vertices": []
           },
           {
             "shape": "flow",
