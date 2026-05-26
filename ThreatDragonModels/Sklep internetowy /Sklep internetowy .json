@@ -691,7 +691,7 @@
             "connector": "smooth",
             "data": {
               "type": "tm.Flow",
-              "name": "Data Flow",
+              "name": "Dane użytkownika ",
               "description": "",
               "outOfScope": false,
               "isTrustBoundary": false,
@@ -705,7 +705,7 @@
               "trustBoundaryIds": []
             },
             "labels": [
-              "Data Flow"
+              "Dane użytkownika "
             ],
             "id": "db925023-d0b3-442d-bf7f-737440d14737",
             "source": {
@@ -743,7 +743,7 @@
             "connector": "smooth",
             "data": {
               "type": "tm.Flow",
-              "name": "Data Flow",
+              "name": "Odpowiedź API",
               "description": "",
               "outOfScope": false,
               "isTrustBoundary": false,
@@ -757,7 +757,7 @@
               "trustBoundaryIds": []
             },
             "labels": [
-              "Data Flow"
+              "Odpowiedź API"
             ],
             "id": "334db0d2-c331-4f59-a0e0-3e5836bbcafa",
             "source": {
@@ -795,7 +795,7 @@
             "connector": "smooth",
             "data": {
               "type": "tm.Flow",
-              "name": "Data Flow",
+              "name": "widok strony",
               "description": "",
               "outOfScope": false,
               "isTrustBoundary": false,
@@ -809,12 +809,12 @@
               "trustBoundaryIds": []
             },
             "labels": [
-              "Data Flow"
+              "widok strony"
             ],
-            "id": "f9b871ae-0378-4e6b-9f4c-3621b9b56887",
+            "id": "a80d047c-4f9e-489d-9a14-2ab50b6a8b50",
             "source": {
-              "cell": "85b7f7ff-9da8-4210-8df9-5d65c31f1db1",
-              "port": "36e46a6d-0e57-4067-b11f-39c011653f54"
+              "x": 330,
+              "y": 170
             },
             "target": {
               "cell": "6263681d-dd8a-487d-98b2-2ad7db92bf11",
@@ -822,16 +822,8 @@
             },
             "vertices": [
               {
-                "x": 320,
-                "y": 160
-              },
-              {
-                "x": 390,
-                "y": 90
-              },
-              {
-                "x": 520,
-                "y": 60
+                "x": 510,
+                "y": 20
               }
             ]
           }
