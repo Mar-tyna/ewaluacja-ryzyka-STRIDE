@@ -18,6 +18,34 @@
         "version": "2.6.2",
         "cells": [
           {
+            "shape": "trust-boundary-curve",
+            "width": 200,
+            "height": 100,
+            "zIndex": -1,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Boundary",
+              "name": "Internet",
+              "description": "",
+              "isTrustBoundary": true,
+              "hasOpenThreats": false,
+              "crossingFlows": [],
+              "containedElements": []
+            },
+            "labels": [
+              "Internet"
+            ],
+            "id": "7b667b72-0314-47c8-8c95-2a95a734d451",
+            "source": {
+              "x": 460,
+              "y": -20
+            },
+            "target": {
+              "x": 460,
+              "y": 620
+            }
+          },
+          {
             "position": {
               "x": 310,
               "y": 180
